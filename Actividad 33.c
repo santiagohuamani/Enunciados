@@ -13,7 +13,7 @@ int main()
     for(i=1;i<=b;i++)
     producto=producto+a;
 
-    printf("Producto %d",producto);
+    printf("Producto: %d",producto);
 
     return 0;
 }
