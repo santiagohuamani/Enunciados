@@ -2,7 +2,7 @@
 
 int main()
 {
-    int a=0,b=0,c=0,i;
+    int a=1,b=1,c,i;
 
     printf("%d\n",a);
     printf("%d\n",b);
